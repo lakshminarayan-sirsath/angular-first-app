@@ -1,3 +1,10 @@
+# angular-first-app
+A beginner-level project to understand Angular structure, core features, and how it works.
+
+
+----------------------------------------Other-Angular-Project-Details--------------------------------------------
+
+
 # AngularApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.2.
@@ -57,3 +64,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
